@@ -13,3 +13,5 @@ First, a bit of context from 31/08/2023:
 HCB can stand for a lot of things... by our calculations approximately 219,776,781,114 different phrases.
 
 To celebrate HCB, PR in your favourite potential combinations and have them show up on the HCB homepage! Submit your HCB in a PR that edits `phrases.txt`.
+
+<img width="1158" alt="Screenshot 2023-08-31 at 10 32 04 PM" src="https://github.com/hackclub/hcb-expansions/assets/39828164/3d47a405-79c4-46d0-9a85-82ecc75f1ab3">
