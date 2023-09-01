@@ -12,4 +12,4 @@ First, a bit of context from 31/08/2023:
 
 HCB can stand for a lot of things... by our calculations approximately 219,776,781,114 different phrases.
 
-To celebrate HCB, PR in your favourite potential combinations and have them show up on the HCB homepage!
+To celebrate HCB, PR in your favourite potential combinations and have them show up on the HCB homepage! Submit your HCB in a PR that edits `phrases.txt`.
