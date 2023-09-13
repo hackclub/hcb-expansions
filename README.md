@@ -1,6 +1,6 @@
 # HCB: what does it stand for? 
 
-First, a bit of context from 31/08/2023:
+First, a bit of context from 2023-08-31:
 
 > **🆕 Hack Club Bank is now HCB**
 > 
